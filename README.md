@@ -1,6 +1,6 @@
 **LootBT**
 
-LootBT (or Loot Battle Text) is a lightweight addon that improves the loot / item notification experience, with a focus on clarity and customization. It was designed to work with WoW 12.0 and onwards after most combat text addons lost major functionality or died completely. It's been tested on MoP Classic and while not officially supported, should function OK.
+LootBT (or Loot Battle Text) is a lightweight WoW addon that improves the loot / item notification experience, with a focus on clarity and customization. It was designed to work with WoW 12.0 and onwards after most combat text addons lost major functionality or died completely. It's been tested on MoP Classic and while not officially supported, should function OK.
 
 
 
